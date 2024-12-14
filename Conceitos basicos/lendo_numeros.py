@@ -6,3 +6,4 @@ print(type(y))
 
 print("Agora vc é caracter tmb" + str(y))
 print(type(y))
+
