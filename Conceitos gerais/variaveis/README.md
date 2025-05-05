@@ -11,3 +11,4 @@ No python as variaveis seguem algumas regras como exemplo:
 * As variaveis não podem fazer uso de palavras reservadas(comandos/indicações da própria linguagem como if,else,while e afins.)
 
 ### Padrão de declaração de variaveis
+As variaveis devem sempre começar  minúscula , nunca iniciando com letra maiscula 
