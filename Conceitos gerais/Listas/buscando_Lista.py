@@ -24,3 +24,4 @@ for item in range(0,len(equipamentos)):
     
     else:
         item = item + 1
+        
